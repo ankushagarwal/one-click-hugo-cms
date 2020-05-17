@@ -1,6 +1,5 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Quality Products At Wholesale Prices"
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why GroupNow?
